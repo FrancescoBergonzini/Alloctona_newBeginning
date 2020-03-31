@@ -10,6 +10,8 @@ public class TEAM_HELLO_WORD : MonoBehaviour
         print("BERGO: Hello Word");
 
         print("Plinio: Daje famoce sto gioco, ve voglio carichi");
+
+        print("Padu: Voglio easter egg di knuckles ovunque");
     }
 
     // Update is called once per frame
